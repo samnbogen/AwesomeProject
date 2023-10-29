@@ -14,7 +14,7 @@ import {
 
 function App() {
   return (
-    <SafeAreaView>
+    <SafeAreaView>  
       <ToDoList/>
       <ToDoForm/>
     </SafeAreaView>
